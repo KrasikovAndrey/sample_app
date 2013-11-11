@@ -42,9 +42,9 @@ group :test do
   gem 'webrat', '0.7.1'
 end
 
-group :production do
-  gem 'pg', '0.17.0'
-end
+#group :production do
+#  gem 'pg', '0.17.0'
+#end
 
 gem 'rails_12factor', '0.0.2'
 
