@@ -4,7 +4,7 @@
     <list default="true" id="dbd59da7-3210-4191-8dbd-655961ea673d" name="Default" comment="" />
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="dbd59da7-3210-4191-8dbd-655961ea673d" time="1384159435296" ignored="false" />
+    <file path="/Gemfile" changelist="dbd59da7-3210-4191-8dbd-655961ea673d" time="1384160088407" ignored="false" />
     <file path="/README.rdoc" changelist="dbd59da7-3210-4191-8dbd-655961ea673d" time="1384148764914" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.81564987">
+            <state line="7" column="1" selection-start="213" selection-end="213" vertical-scroll-proportion="0.1392573">
               <folding />
             </state>
           </provider>
@@ -380,7 +380,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.81564987">
+        <state line="7" column="1" selection-start="213" selection-end="213" vertical-scroll-proportion="0.1392573">
           <folding />
         </state>
       </provider>
