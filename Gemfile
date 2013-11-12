@@ -8,10 +8,10 @@ gem 'railties', '4.0.0'
 
 ruby "2.0.0"
 
-group :development do
+#group :development do
 # Use sqlite3 as the database for Active Record
-  gem 'sqlite3', '1.3.3'
-end
+  gem 'sqlite3', '1.3.8'
+#end
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.0'
