@@ -15,8 +15,6 @@ describe PagesController do
     end
   end
 
-
-
   describe "GET 'contact'" do
     it "returns http success" do
       get 'contact'
@@ -38,5 +36,16 @@ describe PagesController do
       get 'about'
       response.should have_selector("title", :content => "Ruby on Rails Tutorial Sample App | About")
     end
+  end
+
+  describe "GET 'help'" do
+   it "returns http succes" do
+     get 'help'
+     response.should be_success
+   end
+   it "shduld be right title " do
+     get 'help'
+     response.should have_selector("title", :content => "Ruby on Rails Tutorial Sample App | Help")
+   end
   end
 end
